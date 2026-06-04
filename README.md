@@ -7,7 +7,7 @@ For automated and reproducible consensus profile generation based on independent
 - R and R Studio need to be available
 - Install the required R libraries by either:
   1.) Source "setup.R"
-  ![LA](tutorial/image/setup.png)
+  !(tutorial/images/setup.png)
   2.) install libraries manually
 
 
