@@ -9,7 +9,7 @@ For automated and reproducible consensus profile generation based on independent
  <img src="tutorial/images/setup.png" width="800"/>
 3. Download the most recent SmarTRace repository ZIP file<br>
  <img src="tutorial/images/download_zip.png" width="800"/>
-
+4. Unzip downloaded folder "SmarTRace" and navigate to folder that contains .R Scripts
 
 ## Start SmarTRace
 1. 
