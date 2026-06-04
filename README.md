@@ -5,11 +5,11 @@ For automated and reproducible consensus profile generation based on independent
 
 ## Requirements and Installation
 1. R and R Studio need to be available
-2. Install the required R libraries by sourcing "setup.R" as shown here:<br>
- <img src="tutorial/images/setup.png" width="800"/>
-3. Download the most recent SmarTRace repository ZIP file<br>
+2. Download the most recent SmarTRace repository ZIP file<br>
  <img src="tutorial/images/download_zip.png" width="800"/>
-4. Unzip downloaded folder "SmarTRace" and navigate to folder that contains .R Scripts
+3. Unzip downloaded folder "SmarTRace" and navigate to folder that contains .R Scripts
+4. Install the required R libraries by sourcing "setup.R" as shown here:<br>
+ <img src="tutorial/images/setup.png" width="800"/>
 
 ## Start SmarTRace
 1. 
