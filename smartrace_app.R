@@ -1,14 +1,4 @@
 #Version 1.3 
-#install.packages(c("shiny", "data.table", "bslib", "bsicons", "DT", "officer", "flextable"))
-#install.packages("bsicons")
-#install.packages(c("future", "future.apply", "data.table"))
-#install.packages("here")
-#install.packages("shinyjs")
-#install.packages("htmltools")
-#install.packages("officer")
-#install.packages("rlang")
-
-
 library(shiny)
 library(future)
 library(future.apply)
@@ -23,7 +13,6 @@ library(flextable)
 library(shinyjs)
 
 print("Starting SmarTRace v1.3.0")
-#script_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
 script_dir <- normalizePath(".")
 print(script_dir)
 
