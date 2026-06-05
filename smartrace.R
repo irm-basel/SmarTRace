@@ -2,7 +2,6 @@
 options(download.file.method = "libcurl") #wininet
 chooseCRANmirror(ind = 63)
 
-#install.packages("here")
 
 # libraries
 library(shiny)
@@ -337,11 +336,7 @@ server <- function(input, output, session) {
     }
   })
   
-  
-  
-  
-  
-  
+
   
   # Helper function to run JavaScript
   runjs <- function(code) {
@@ -529,10 +524,9 @@ server <- function(input, output, session) {
     showNotification(result$message, type = "message", duration = 3)
   })
   
+
   
-  
-  
-  # OPTION: Search for Case ID (Format smartDNA)
+  # OPTION: Search for Case ID
   observeEvent(input$search_case_smartDNA, {
     case_id <- input$case_id_smartDNA
     
