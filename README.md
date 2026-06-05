@@ -19,7 +19,7 @@ For automated and reproducible consensus profile generation based on independent
  <img src="tutorial/images/smartrace_gui.png" width="800"/>
 4. First upload the trace profile using the standard GeneMapper export file (1) or manual input (2)<br>
 
-### 4.1 The GeneMapper (GM)
+##### 4.1 The GeneMapper (GM)
 
    4.1.1 The GM export file should contain a case code, the used systems/loci and at least the alleles observed per system. This is an example GM file:<br>
  <img src="tutorial/images/GM_export.png" width="800"/>
