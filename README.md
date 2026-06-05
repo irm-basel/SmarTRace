@@ -18,7 +18,7 @@ For automated and reproducible consensus profile generation based on independent
 3. A window opens up in the default explorer<br>
  <img src="tutorial/images/smartrace_gui.png" width="800"/>
 4. First upload the trace profile using the standard GeneMapper export file (1) or manual input (2)<br>
-**4.1 The GeneMapper (GM)** <br>
+**4.1 The GeneMapper (GM)**
    4.1.1 The GM export file should contain a case code, the used systems/loci and at least the alleles observed per system. This is an example GM file:<br>
  <img src="tutorial/images/GM_export.png" width="800"/>
    4.1.2 The user needs to select the GM export table as input and then define the path to the folder, where GM export files are located. When picking "check" the path, this path will be saved for future uses as the location with GM export files. But this location can be changed anytime.
