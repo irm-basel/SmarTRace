@@ -13,7 +13,7 @@ For automated and reproducible consensus profile generation based on STR profile
 
 ## Start SmarTRace
 1. Double-click "smartrace_app.R" to open in RStudio<br>
-2. Run entire "smartrace_app.R", e.g., by marking all and Clicking "Run App"<br>
+2. Run entire "smartrace_app.R", e.g., by marking all and clicking "Run App"<br>
  <img src="tutorial/images/start_app.png" width="800"/>
 3. A window opens up in the default explorer. <br>
  <img src="tutorial/images/smartrace_gui.png" width="800"/>
